@@ -1,0 +1,23 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Ollama Serve",
+      "type": "shell",
+      "command": "ollama",
+      "args": ["serve"],
+      "isBackground": true,
+      "problemMatcher": []
+    },
+    {
+      "label": "OpenClaude",
+      "type": "shell",
+      "command": "node",
+      "args": ["dist/cli.mjs", "--tools="],
+      "options": {
+        "cwd": "C:\\projetos\\openclaude"
+      },
+      "problemMatcher": []
+    }
+  ]
+}
