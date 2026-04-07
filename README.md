@@ -98,6 +98,13 @@ Advanced and source-build guides:
 - [Advanced Setup](docs/advanced-setup.md)
 - [Android Install](ANDROID_INSTALL.md)
 
+Copilot Governance Documentation:
+
+- [Manual Profissional Copilot Técnico](docs/copilot/Manual_Profissional_Copilot_Tecnico_Estruturado.md)
+- [Instruções do Copilot](docs/copilot/copilot_instructions.md)
+- [Integração OpenClaude com Roteirista IA](docs/copilot/Integracao_OpenClaude_Roteirista_IA.md)
+- [Política de Roteamento de Modelos](docs/copilot_routing_policy.md)
+
 ## Supported Providers
 
 | Provider | Setup Path | Notes |
